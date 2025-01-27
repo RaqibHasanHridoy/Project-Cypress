@@ -1,0 +1,12 @@
+{
+  "addNewContactButton": "Add new contact",
+  "firstName": "First Name",
+  "lastName": "Last Name",
+  "phone": "//input[@data-placeholder='Phone number']",
+  "email": "Email address",
+  "contactTypeDropdown": ".mantine-MultiSelect-searchInput",
+  "grantUserPermissionCheckbox": "//input[@type='checkbox']",
+  "grantUserPermissionLabel": "Grant user permission to upload company information and request purchases",
+  "errorMessageEmail": "Enter a valid email address",
+  "errorMessagePhone": "enter a valid number"
+}

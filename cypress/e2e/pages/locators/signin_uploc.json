@@ -1,0 +1,80 @@
+{
+  "CRNumber": "CR Number",
+  "phoneNoSignin": "//input[@data-placeholder='Phone number']",
+  "emailCheckbox": "//*[@type='radio' and @value='email']",
+  "smsCheckbox": "//*[@type='radio' and @value='sms']",
+  "continueButton": "//button[@class='btn cta-primary ']",
+  "registerButton": "//div[@class='_notLogged-topBar_register_nav___EnJX']",
+  "clientOption": "Buy on Credit",
+  "registerContinueButtonDisabled": "//button[contains(text(), 'Continue') and @disabled]",
+  "registerContinueButton": "//button[@class='btn cta-primary ']",
+  "selectManufacturerClient": "Manufacturer",
+  "selectContractorClient": "Contractor",
+  "selectTraderClient": "Trader",
+  "undefinedInput": "#input-undefined",
+  "phoneNumber": "Phone Number",
+  "Email": "Enter email address",
+  "nationalId": "Enter National ID or Iqama Number",
+  "birthDay": "#__next > main > div.Register_container__KnOrx > div.Register_pageWrapper__0aF6x > div > div > div > div:nth-child(1) > div.dob-wrapper > div.container > div > div:nth-child(1) > div > div > div.select__value-container.css-hlgwow",
+  "birthMonth": "Month",
+  "birthYear": "Year",
+  "DOBmonth": "December",
+  "DOByear": "1950",
+  "DOBFirstYear": "1905",
+  "DOBLatestYear": "2010",
+  "checkBox": "//input[@data-cy='consent_checkbox']",
+  "rememberMeCheckBox": ".mantine-Checkbox-input",
+  "registerinfoContinueButton": "Continue",
+  "loginPageHeading": ".SignIn_heading__EZNEO.pageHeader",
+  "otpPageHeading": "//*[@class='SignIn_heading__EZNEO']",
+  "otp1": "//input[@aria-label='Character 1.']",
+  "otp2": "//input[@aria-label='Character 2.']",
+  "otp3": "//input[@aria-label='Character 3.']",
+  "otp4": "//input[@aria-label='Character 4.']",
+  "otp5": "//input[@aria-label='Character 5.']",
+  "otp6": "//input[@aria-label='Character 6.']",
+  "otpBox": "//input[@maxLength='6' and @class='_otp_input_otp_input__dLWVc']",
+  "verifyOTP": "//button[@class='btn cta-primary ']",
+  "registerOTPPageHeading": "//h1[@class='Register_pageTitle__ER_AK']",
+  "registerResendLabel": "//*[@class='Register_resendNote__U0tGl']",
+  "resendRegisterOTP": "div.Register_resendNote__U0tGl > div > div > span",
+  "loginResendLabel": "div:nth-child(5) > div > div",
+  "loginResendExpiryLabel": "//*[@class='SignIn_resendNote__4I5B4']",
+  "resendLoginOTP": "div:nth-child(5) > div > div > span",
+  "clickableLinks": {
+    "FAQ": {
+      "redirectTo": "https://www.buildnow.sa/en#faqs",
+      "text": "FAQ",
+      "tag": "a",
+      "type": "tab"
+    },
+    "FAQ-ar": {
+      "redirectTo": "https://www.buildnow.sa/#faqs",
+      "text": "التعليمات",
+      "tag": "a",
+      "type": "tab"
+    },
+    "Arabic": {
+      "redirectTo": "/signin",
+      "text": "عربى",
+      "tag": "a",
+      "mobileClass": "_notLogged-topBar_mobile_change_language__HNEBS",
+      "type": "redirect"
+    },
+    "English": {
+      "redirectTo": "en/signin",
+      "text": "English",
+      "tag": "a",
+      "mobileClass": "_notLogged-topBar_mobile_change_language__HNEBS",
+      "type": "redirect"
+    },
+    "Register": {
+      "redirectTo": "/register",
+      "text": "Register",
+      "tag": "a",
+      "type": "redirect"
+    }
+  },
+  "loginError": "div[class^=\"_notify_text_wrapper\"]",
+  "signupVerifyOTP": "Verify"
+}

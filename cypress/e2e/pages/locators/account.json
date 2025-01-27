@@ -1,0 +1,11 @@
+{
+  "companies": {
+    "crInputField": "//input[@type='text']",
+    "companyType": {
+      "Manufacturer": ["//button[text()='Manufacturer']", "MAN"],
+      "Trader": ["//button[text()='Trader']", "TRD"],
+      "Contractor": ["//button[text()='Contractor']", "CTR"]
+    },
+    "verifyToAddButton": "Verify to add"
+  }
+}

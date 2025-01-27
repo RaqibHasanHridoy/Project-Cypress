@@ -1,0 +1,11 @@
+{
+  "materialDropdown": ".mantine-MultiSelect-searchInput",
+  "estimatedProfitMargin": "What is the estimated profit margin in this project?",
+  "invoicePaymentSlider": "span.MuiSlider-markLabel",
+  "checkBoxs": "//input[@type='checkbox']",
+  "typeOfProjectSelect": ".mantine-Input-input",
+  "howManyProjectsDone": "How many projects of this type have you done before?",
+  "publicEntity": "//input[@type='radio']",
+  "clientPhoneNumber": "//input[@data-placeholder='Phone number']",
+  "clientCompanyName": "//input[@data-placeholder='Company name']"
+}

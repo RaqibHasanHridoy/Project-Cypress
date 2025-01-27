@@ -1,0 +1,17 @@
+{
+  "consentParagraph": ".bodyParagraph",
+  "consentAgreementClientName": ".Agreement_master_aggrement_wrapper__qE5K2 > div:nth-child(1) > div:nth-child(2) > div:nth-child(1)",
+  "consentAgreementText": "Hereby, I the undersigned Agent/Authorized person, agree to provide BUILDNOW Trading Company with any information that it requires for the establishing and/or auditing and/or administering my accounts and facilities therewith and I authorize it to obtain and collect anyinformation as it deems necessary or in need for regarding my accounts and facilities therewith, from the Saudi Credit Bureau (SIMAH) and to disclose and share (inclusive of Data Pooling) that information to the said company (SIMAH) or to any other agency approved by Saudi Central Bank (SAMA).",
+  "individualConsent": "Check the consent checkbox to continue",
+  "individualConsentHeading": "//h1[contains(@class, 'Agreement_heading__mpilY')]",
+  "continueButton": "Continue",
+  "clientName": "//*[contains(@class, 'agreementClientName')]",
+  "agreementDate": "//*[contains(@class, 'agreementDate')]",
+
+  "globalAgreementScrollbox": ".Agreement_global_aggrement_wrapper__zKRuV",
+  "globalAgreementScrollAlert": "Please scroll down to the bottom to accept the agreement",
+  "globalAgreementCheckbox": "Check the consent checkbox to continue",
+
+  "wakalahAgreementCheckbox": "Check the consent checkbox to continue",
+  "wakalahAgreementScrollbox": ".Agreement_global_aggrement_wrapper__zKRuV"
+}

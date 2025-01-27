@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  },
+  "devDependencies": {
+    "@walmyr-filho/cy-press": "^1.0.2",
+    "cypress": "^13.16.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-intercept-formdata": "^0.6.0",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-xpath": "^2.0.1"
+  }
+}

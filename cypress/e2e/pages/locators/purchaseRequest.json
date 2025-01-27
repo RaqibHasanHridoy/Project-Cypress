@@ -1,0 +1,23 @@
+{
+  "purchaseRequestButton": "Create New Request",
+  "disabledPurchaseRequestButton": "//button[@class='btn cta-outline btn_disabled']",
+  "qouteDoucmentUpload": "//input[@type='file']",
+  "materialDropdownSelector": ".mantine-MultiSelect-searchInput",
+  "materialDropdownList": ".mantine-MultiSelect-dropdown",
+  "closeDropdown": ".mantine-Input-rightSection",
+  "cost": "#input-default",
+  "dealTimeDropdown": ".mantine-Select-input.mantine-Select-input",
+  "deliveryLocation": "Delivery location (City)",
+  "dropdownGeneral": "input.mantine-Input-input.mantine-Select-input",
+  "phoneNumber": "//input[@data-placeholder='Phone number']",
+  "supplierName": "Name of the supplier contact",
+  "supplierEmail": "Email of the supplier contact",
+  "submitButton": "Submit",
+  "purchaseRequestSuccessMessage": "We’ve received your quotation for purchase order successfully!",
+  "allPurchaseRequestButton": "All Requests",
+  "purchaseRequestError": {
+    "Credit Rejected": "Please complete your profile for review and get approval to create new purchase request",
+    "noPermission": "You do not have permission to perform this action",
+    "creditManagerOnStaffDisabled": "Creating new purchase requests is currently unavailable. Please contact support if you need assistance."
+  }
+}

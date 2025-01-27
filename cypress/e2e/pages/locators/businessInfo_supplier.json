@@ -1,0 +1,11 @@
+{
+    "switchToEnglishOption": "EN",
+    "switchToArabicOption":"عربى",
+    "crNumberInput": "//input[@type='number' and @placeholder='Enter your 10 digit CR number' and @data-cy='cr_number']",
+    "ibanInput":"//input[@placeholder='Enter your 24 digits IBAN number']",
+    "unInput":"//input[@placeholder='Enter your Unified National Number']",
+    "companyNameEN":"//input[@placeholder='Enter company name (English)']",
+    "companyNameAR":"//input[@placeholder='Enter company name (Arabic)']",
+    "nidUploader":"//div[contains(text(),'National ID (PDF/JPG/PNG/JPEG only)')]",
+    "continueButton": "Continue"
+}

@@ -1,0 +1,23 @@
+stages:
+  - test
+
+e2e_tests:
+  stage: test
+  image: cypress/included:cypress-13.16.0-node-22.11.0-chrome-131.0.6778.69-1-ff-132.0.2-edge-131.0.2903.51-1
+  script:
+    - npm install
+    - mkdir -p cypress/screenshots cypress/videos cypress/results
+    - npx cypress run --browser chrome --reporter junit --reporter-options "mochaFile=cypress/results/junit.xml"
+  artifacts:
+    when: always
+    paths:
+      - cypress/screenshots
+      - cypress/videos
+    reports:
+      junit: cypress/results/junit.xml
+  cache:
+    key: ${CI_COMMIT_REF_SLUG}
+    paths:
+      - node_modules/
+  only:
+    - main

@@ -1,0 +1,8 @@
+{
+  "saudiExpiry": "What is the expiry date of this Certificate?",
+  "gosiExpiry": "What is the expiry date of GOSI Certificate?",
+  "pendingLegalCases": [
+    "//input[@type='radio' and @value='true']",
+    "//input[@type='radio' and @value='false']"
+  ]
+}

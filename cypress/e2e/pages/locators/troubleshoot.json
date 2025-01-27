@@ -1,0 +1,84 @@
+{
+  "enterOTPbox": "input._otp_input_otp_input__dLWVc",
+  "phoneNumberField": "//input[@data-placeholder='Phone number']",
+  "url": {
+    "en": "en/troubleshoot",
+    "ar": "/troubleshoot"
+  },
+  "clickableLinks": {
+    "FAQ": {
+      "redirectTo": "https://www.buildnow.sa/en#faqs",
+      "text": "FAQ",
+      "tag": "a",
+      "type": "tab"
+    },
+    "FAQ-ar": {
+      "redirectTo": "https://www.buildnow.sa/#faqs",
+      "text": "التعليمات",
+      "tag": "a",
+      "type": "tab"
+    }
+  },
+
+  "verifyOptions": {
+    "en": [
+      "Changed my phone number.",
+      "Did not receive OTP.",
+      "Login button not working."
+    ],
+    "ar": [
+      "تغيير/فقدان رقم الهاتف.",
+      "لا أتلقى رمز التحقق OTP.",
+      "زر تسجيل الدخول لا يعمل."
+    ]
+  },
+  "verifyTextBody": {
+    "en": [
+      {
+        "heading": "Verify your identity",
+        "text": [
+          "Help us getting you into your account by filling out the verification form below"
+        ]
+      },
+      {
+        "heading": "Did not receive OTP.",
+        "text": [
+          "Network delay may cause a delay in the arrival of the code sent via SMS or WhatsApp.",
+          "Check the validity of the entered phone number; wrong number prevents the code from being received.",
+          "Issues on the messaging service provider's side may prevent the code from arriving.",
+          "Check your spam or junk folder as the code may have arrived there.",
+          "If there are restrictions on receiving text messages from unknown numbers, this may prevent the code from arriving.",
+          "If you cannot access the message after trying the previous steps, it is recommended to contact"
+        ]
+      },
+      {
+        "heading": "Login button not working.",
+        "text": [
+          "Check your internet connection",
+          "Make sure you enter the mobile number correctly"
+        ]
+      }
+    ],
+    "ar": [
+      {
+        "heading": "تحقق من هويتك",
+        "text": ["ساعدنا في الوصول إلى حسابك من خلال ملء نموذج التحقق أدناه"]
+      },
+      {
+        "heading": "لا أتلقى رمز التحقق OTP.",
+        "text": [
+          "قد يؤدي تأخير الشبكة إلى تأخر وصول الرمز المرسل عبر الرسائل النصية أو WhatsApp.",
+          "التحقق من صحة رقم الهاتف المدخل؛ رقم خاطئ يمنع وصول الرمز.",
+          "مشاكل على جانب مزود خدمة الرسائل قد تمنع وصول الرمز."
+        ]
+      },
+      {
+        "heading": "زر تسجيل الدخول لا يعمل.",
+        "text": [
+          "قد يكون عدم استقرار الاتصال بالإنترنت سببًا في عدم عمل زر تسجيل الدخول. تأكد من أن الاتصال بالإنترنت قوي ومستقر قبل المحاولة مرة أخرى.",
+          "تأكد من أن رقم جوالك مدخل بشكل سليم دون مسافات أو حروف، وتأكد من أن النظام لا يعطيك خطأ في رقم الجوال."
+        ]
+      }
+    ]
+  }
+}

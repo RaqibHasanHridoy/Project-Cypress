@@ -1,0 +1,9 @@
+{
+  "lineOfCredit": "Total size of credit lines you have available",
+  "promisoryNoteToggle": {
+    "Yes": "//input[@type='radio' and @value='true']",
+    "No": "//input[@type='radio' and @value='false']"
+  },
+  "financeStatement": "Financial statements (Last 3 years)",
+  "vatNumber": "What is your VAT number?"
+}

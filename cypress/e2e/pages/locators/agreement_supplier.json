@@ -1,0 +1,11 @@
+{
+    "switchToEnglishOption": "EN",
+    "switchToArabicOption":"عربى",
+    "pageTitle": "Partnership Agreement",
+    "statusInRev":"In Review",
+    "crNumberinAgreement": "has C.R number",
+    "scrollingTriggeer":"p[data-cy='last-scroll']",
+    "scrollAlertMsg":"Please scroll down to the bottom to accept the agreement",
+    "agreeButton": "Agree and Continue"
+    
+}

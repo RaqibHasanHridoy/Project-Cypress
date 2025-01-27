@@ -1,0 +1,18 @@
+{
+  "material": ".mantine-MultiSelect-searchInput",
+  "credit": "How much credit do you want?",
+  "monthSelector": "___ref-control mantine-1ryipl8 mantine-SegmentedControl-control",
+  "revenue": "What was your revenue for the year",
+  "profit": ".mantine-kegijc.mantine-Radio-label",
+  "profitPercentage": "//input[@class='mz_textInput _input_text_input__OXlUt PreApprove_profitInputWrapper__pZ7Sa' and @id='input-undefined' and @type='text']",
+  "loan": "What is your total outstanding loan?",
+  "companyEstablished": "What year was your company established?",
+  "companyName": "What is your company’s name in English?",
+  "auditReport": "Which years do you have audited financials for?",
+  "auditReportList": [
+    "I have audited financial for 2023 and 2022",
+    "I have audited financial for 2023"
+  ],
+  "howDidYouHearAboutUs": "Select an answer",
+  "howDidYouHearList": ["Buildnow contacted me", "Recommended by friend"]
+}
