@@ -1,6 +1,6 @@
 # Project-Cypress
 
-This project appears to be an end-to-end (E2E) testing suite for a web application using Cypress. The focus of the tests is on the functionality related to supplier agreements within the application. The project includes various test cases to ensure that the supplier agreement process works as expected.
+This project appears to be an end-to-end (E2E) testing suite for a web application using Cypress. The focus of the tests is on the functionality related to the supplier within the application. The project includes various test cases to ensure that the supplier onboarding process works as expected.
 
 - Cypress Framework:
 Cypress is used for writing and running the end-to-end tests. It provides a robust and easy-to-use API for interacting with web elements and making assertions.
